@@ -11,7 +11,7 @@
     "coordinates": [9.9146, -83.6782],
     "images": [
       {
-        "src": "img/planta-cafe.png",
+        "src": "img/planta-cafe.webp",
         "alt": "Foto de planta de café orgánico"
       }
     ],
@@ -29,7 +29,7 @@
     "coordinates": [9.8946, -83.7082],
     "images": [
       {
-        "src": "img/artesania-piedras.png",
+        "src": "img/artesania-piedras.webp",
         "alt": "Foto de piedras con árboles dibujadas y pintadas en ellas"
       }
     ],
@@ -47,7 +47,7 @@
     "coordinates": [9.9046, -83.6932],
     "images": [
       {
-        "src": "img/panal-abejas.png",
+        "src": "img/panal-abejas.webp",
         "alt": "Foto de panal de un panal de abejas con una abeja introduciéndose en él"
       }
     ],
@@ -65,7 +65,7 @@
     "coordinates": [9.8846, -83.6782],
     "images": [
       {
-        "src": "img/finca-costarricense.png",
+        "src": "img/finca-costarricense.webp",
         "alt": "Foto de una finca costarricense con plantaciones alrededor y montañas al fondo"
       }
     ],
@@ -83,7 +83,7 @@
     "coordinates": [9.8976, -83.7182],
     "images": [
       {
-        "src": "img/artesania-reutilizable.png",
+        "src": "img/artesania-reutilizable.webp",
         "alt": "Foto de botellas con forma de huevo hechas con materiales reutilizables"
       }
     ],
@@ -101,7 +101,7 @@
     "coordinates": [9.9246, -83.6682],
     "images": [
       {
-        "src": "img/queso-turrialba.png",
+        "src": "img/queso-turrialba.webp",
         "alt": "Foto de queso Turrialba sobre una tabla de cortar con un color negro de fondo"
       }
     ],
