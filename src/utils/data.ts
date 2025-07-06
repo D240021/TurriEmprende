@@ -1,0 +1,73 @@
+export const entrepreneurships = [{
+  id: 'ent1',
+  name: 'Aromas de mi Tierra',
+  category: 'Comida y Bebida',
+  description: 'Educar y entretener a nuestros visitantes nacionales y extranjeros amantes del café a través de un viaje desde la plantación hasta la planta tostadora.',
+  phone: '+506 8662-3283',
+  email: 'info@aromasmitierra.com',
+  address: '2km oeste de la Iglesia católica, sector San Martín, Pejibaye.',
+  hours: 'Lunes a Domingo de 8 a.m. a 5 p.m.',
+  coordinates: [9.9146, -83.6782],
+  images: ['img/planta-cafe.png'],
+  products: ['Café orgánico', 'Tours de café']
+}, {
+  id: 'ent2',
+  name: 'Una semilla por la vida',
+  category: 'Artesanía',
+  description: 'Se realiza el tour al río en busca de la piedra con un refrigerio y se regresa para la experiencia de pintarlas.',
+  phone: '+506 8444-8685',
+  email: 'kattygon14@gmail.com',
+  address: 'Pejibaye, Barrio Doña Fina.',
+  hours: 'Lunes a Viernes de 8 a.m. a 4 p.m.',
+  coordinates: [9.8946, -83.7082],
+  images: ['img/artesania-piedras.png'],
+  products: ['Pintura en piedras']
+}, {
+  id: 'ent3',
+  name: 'Miel de Abeja de la Realeza - Multifloral',
+  category: 'Turismo y aventura',
+  description: 'Productos y tour apícola artesanal. Visitar nuestros apiarios, conocer las colmenas. Abejas nobles acostumbradas al contacto humano.',
+  phone: '+506 2531-2862',
+  email: 'beli286@hotmail.com',
+  address: 'Pejibaye de Jiménez, Cartago. 150mts Este de la Plaza de Deportes.',
+  hours: 'Lunes a Viernes de 8 a.m. a 12 m.d.',
+  coordinates: [9.9046, -83.6932],
+  images: ['img/panal-abejas.png'],
+  products: ['Tour apícola', 'Productos artesanales']
+}, {
+  id: 'ent4',
+  name: 'Finca las Mayelitas',
+  category: 'Agricultura',
+  description: 'Mostrar la producción de finca lechera y hortalizas.',
+  phone: '+506 8408-3653',
+  email: 'info@fincalasmayelitas.com',
+  address: 'Las Vueltas de Tucurrique 300mts Este del Abastecedor San José.',
+  hours: 'Lunes a Miércoles de 7 a.m. a 12 m.d. ',
+  coordinates: [9.8846, -83.6782],
+  images: ['img/finca-costarricense.png'],
+  products: ['Tour por la finca']
+}, {
+  id: 'ent5',
+  name: 'Artesanías Alicia',
+  category: 'Artesanía',
+  description: 'El uso de materiales reutilizables para fabricar artesanías.',
+  phone: '+506 8681-7701',
+  email: 'info@artesaniasalicia.com',
+  address: '200mts Oeste de la plaza pública de San Martín, Tres Equis.',
+  hours: 'Lunes a Viernes de 8 a.m. a 11a.m. y de 1 p.m. a 3 p.m.',
+  coordinates: [9.8976, -83.7182],
+  images: ['img/artesania-reutilizable.png'],
+  products: ['Materiales reutilizables', 'Productos artesanales']
+}, {
+  id: 'ent6',
+  name: 'Finca Las Abras',
+  category: 'Turismo y aventura',
+  description: 'Conocer el origen del queso Turrialba.',
+  phone: '+506 8829-8767',
+  email: 'productoslacteoslasabras@gmail.com',
+  address: 'De la Iglesia del Carmen de Santa Cruz 500mts Oeste, 150 mts Sur y 150mts Este.',
+  hours: ' Lunes a Viernes de 8 a.m. a 5 p.m.',
+  coordinates: [9.9246, -83.6682],
+  images: ['img/queso-turrialba.png'],
+  products: ['Queso Turrialba', 'Tour de preparación del queso']
+}];
